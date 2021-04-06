@@ -1,0 +1,10 @@
+@mixin btn-learn-more() {
+    padding: 10px 15px;
+    background-color: #1e5cb3;
+    transition: all 0.3s ease;
+    border: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 10px 0;
+    color: white;
+}
