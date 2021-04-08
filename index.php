@@ -176,6 +176,199 @@
             <h3>Our Destination</h3>
             <h5>Popular For <span>Abroad Studies</span></h5>
         </div>
+        <div class="md-content">
+            <div class="md-slider mt-slider">
+                <div class="md-single">
+                    <div class="trap-design">
+                    </div>
+                    <h5>Australia</h5>
+                    <div class="md-image">
+                        <img src="./image/australia.jpg" alt="">
+                    </div>
+                    <a href="#">Apply Now</a>
+                </div>
+                <div class="md-single">
+                    <div class="trap-design">
+                    </div>
+                    <h5>Australia</h5>
+                    <div class="md-image">
+                        <img src="./image/australia.jpg" alt="">
+                    </div>
+                    <a href="#">Apply Now</a>
+                </div>
+                <div class="md-single">
+                    <div class="trap-design">
+                    </div>
+                    <h5>Australia</h5>
+                    <div class="md-image">
+                        <img src="./image/canada.jpg" alt="">
+                    </div>
+                    <a href="#">Apply Now</a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
+
+<!-- MAIN SERVICES -->
+<section class="main-services sec-padding">
+    <div class="container">
+        <div class="sec-title">
+            <h3>Our Destination</h3>
+            <h5>Popular For <span>Abroad Studies</span></h5>
+        </div>
+    </div>
+    <div class="ms-banner" style="background:url(./image/banner-1.jpg);">
+        <div class="container">
+            <div class="msb-content">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="msb">
+                            <i class="fas fa-paste"></i>
+                            <h6>Lorem ipsum dolor sit</h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="msb">
+                            <i class="fas fa-landmark"></i>
+                            <h6>Lorem ipsum dolor sit</h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="msb">
+                            <i class="fas fa-passport"></i>
+                            <h6>Lorem ipsum dolor sit</h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="msb">
+                            <i class="fas fa-map-marked"></i>
+                            <h6>Lorem ipsum dolor sit</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="msb-button">
+                    <a href="#">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- MESSAGE FROM CEO -->
+<section class="main-message sec-padding">
+    <div class="container">
+        <div class="sec-title">
+            <h3>Message from the CEO</h3>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="mm-text">
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam doloremque error repellendus
+                        vero architecto dicta dignissimos, laborum inventore? Nesciunt dolorum quidem esse odit, eaque
+                        possimus quis aliquid. Similique, hic vel.lorem
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam doloremque error repellendus
+                        vero architecto dicta dignissimos, laborum inventore? Nesciunt dolorum
+                    </p>
+                </div>
+                <div class="mm-text">
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam doloremque error repellendus
+                        vero architecto dicta dignissimos, laborum inventore? Nesciunt dolorum quidem esse odit, eaque
+                        possimus quis aliquid. Similique, hic vel.lorem
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam doloremque error repellendus
+                        vero architecto dicta dignissimos, laborum inventore? Nesciunt dolorum
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="mm-image">
+                    <img src="./image/potrait.jpg" alt="">
+                </div>
+
+                <div class="mm-caption">
+                    <h4>Naive Shrestha</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- MAIN-STATISTIC -->
+<section class="main-statistics sec-padding">
+    <div class="container">
+        <div class="sec-title">
+            <h3>Our Statistics</h3>
+        </div>
+        <div class="mt-icon">
+            <ul>
+                <div class="mti-single">
+                    <li><i class="fas fa-globe"></i></li>
+                    <h6>12</h6>
+                    <span>Country Reached</span>
+                </div>
+                <div class="mti-single">
+                    <li><i class="fas fa-users"></i></li>
+                    <h6>500</h6>
+                    <span>Student</span>
+                </div>
+                <div class="mti-single">
+                    <li><i class="fas fa-trophy"></i></li>
+                    <h6>510</h6>
+                    <span>Enrolled Student</span>
+                </div>
+
+                <div class="mti-single">
+                    <li><i class="fas fa-graduation-cap"></i></li>
+                    <h6>10</h6>
+                    <span>Teachers</span>
+                </div>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<!-- MAIN TESTIMONIAL -->
+<section class="main-testimonial sec-padding" style="background:url(./image/banner-1.jpg);">
+    <div class="container">
+        <div class="sec-title">
+            <h3>Our Testimonial</h3>
+            <h5>What they have to say ...</h5>
+        </div>
+        <div class="mt-single">
+            <div class="mts-img">
+                <img src="./image/potrait.jpg" alt="">
+            </div>
+            <div class="mts-text">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam reiciendis ullam laborum minus
+                    velit. Voluptas labore voluptatem laudantium eaque. Assumenda placeat expedita nihil, sed
+                    dolorem
+                    molestias ducimus quaerat animi soluta.</p>
+                <div class="mts-info">
+                    <h6>span ipsum</h6>
+                    <h6>Lorem ipsum</h6>
+                </div>
+            </div>
+        </div>
+        <div class="mt-single">
+            <div class="mts-img">
+                <img src="./image/potrait.jpg" alt="">
+            </div>
+            <div class="mts-text">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam reiciendis ullam laborum minus
+                    velit. Voluptas labore voluptatem laudantium eaque. Assumenda placeat expedita nihil, sed
+                    dolorem
+                    molestias ducimus quaerat animi soluta.</p>
+                <div class="mts-info">
+                    <h6>span ipsum</h6>
+                    <h6>Lorem ipsum</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <?php include 'footer.php'?>
